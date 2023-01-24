@@ -1,5 +1,5 @@
-﻿string[] firstArray = new string[7] {"7", "hello", "world", "749", "(?)", "res", "1"};
-string[] secondArray = new string[firstArray.Length];
+﻿string [] firstArray = new string[7] {"7", "hello", "world", "749", "(?)", "res", "1"};
+string [] secondArray = new string[firstArray.Length];
 
 void ThreeCharArray(string[] firstArray, string[] secondArray)
 {
