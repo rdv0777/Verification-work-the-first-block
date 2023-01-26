@@ -1,7 +1,7 @@
 ﻿string [] firstArray = new string[7] {"7", "hello", "world", "749", "(?)", "res", "1"};
 string [] secondArray = new string[firstArray.Length];
 
-void ThreeCharArray(string[] firstArray, string[] secondArray)
+void ThreeCharArray(string[] firstArray, string[] secondArray) //Метод сортировки строк из 3-х символов и менее
 {
     int count = 0;
     for (int i = 0; i < firstArray.Length; i++)
@@ -14,7 +14,7 @@ void ThreeCharArray(string[] firstArray, string[] secondArray)
     }
 }
 
-    void Print1DArr (string[] array)
+    void Print1DArr (string[] array)       //Метод вывода массива на печать
     {
         for (int i=0; i<array.Length-1; i++)
         {
