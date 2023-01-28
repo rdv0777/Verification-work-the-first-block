@@ -5,8 +5,9 @@ README.md > Solution Description.md
 README.md > Algorithm.png
 в формате (drawio)
 Algoritm
--Программа решения задачи
+- Программа решения задачи
 Task > Program.cs
+
 Описание решения:
 
 1. Задаём первый массив с набором символов.
